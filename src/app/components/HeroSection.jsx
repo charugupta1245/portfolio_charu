@@ -36,8 +36,13 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptuous.
+            Adaptable student with knowledge of web development, configuration
+            management, and database design and expertise in planning,
+            designing, and implementing high-quality websites. Skilled in HTML,
+            CSS, JavaScript & React. Proven ability to quickly understand
+            requirements, create innovative solutions, and complete projects
+            within tight deadlines. I can be relied upon to help your team
+            achieve its goals.{" "}
           </p>
           <div>
             <Link
@@ -48,7 +53,7 @@ const HeroSection = () => {
             </Link>
             <Link
               href="Charuresume1.pdf"
-              className="px-a1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
+              className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
                 Download CV
